@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fuch99
+- 👀 I’m interested in Cybersecurity and microcontrollers programming
+- 🌱 Currently studying to get the CompTIA Security+ Certificate
